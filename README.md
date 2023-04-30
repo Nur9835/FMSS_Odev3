@@ -4,6 +4,8 @@ FMSS Bilişim Front-end Practicum Ödev-3
 OpenWeather API'yle ücretsiz olarak çekilen datalardan 1 günlük hava durumu birden fazla kayıt içerdiğinden(farklı saat dilimlerinde birden fazla veri bulunduğu için) saat 15:00:00 baz alınmıştır.Css olarak Tailwind kullanılmıştır
 
 
+### Live : [https://nurpatikaodev3.netlify.app/]
+
 Ödev Tasarım:
 <img src="./src/img/odev.png" alt="alt text" width="320" height="180">
 
